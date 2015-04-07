@@ -1,0 +1,29 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+textarea {
+    width: 100%;
+    resize: none;
+}
+
+.box-left{
+    width: 48%;
+    padding: 1%;
+    float:left;
+}
+
+.box-right{
+    width: 48%;
+    padding: 1%;
+    float:right;
+}
+
+.title {
+    width: 100%;
+    text-align: center; 
+    color:#BA55D3;
+    font-size: 18px;
+    font-weight: bold;
+}
